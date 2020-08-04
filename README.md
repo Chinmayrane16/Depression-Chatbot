@@ -4,7 +4,7 @@ It is developed from scratch that would help the people regulate their moods and
 
 # Implementation
 A basic Sequence to Sequence architecture is used for building conversational chatbot using Tensorflow framework.<br>
-Scrapped the title of subreddits and its comments in a nested way so as to preserve sequence of "coversations" between the people on reddit. Some of the subreddits that were scraped includes r/depression_help, r/askatherapist, r/Stress, r/relationships, r/talktherapy etc.
+Scrapped the title of subreddits and its comments in a nested way so as to preserve sequence of "coversations" among the people on reddit. Some of the subreddits that were scraped includes r/depression_help, r/askatherapist, r/Stress, r/relationships, r/talktherapy etc.
 
 
 # Requirements
