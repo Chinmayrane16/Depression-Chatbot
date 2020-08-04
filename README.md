@@ -1,6 +1,6 @@
 # Depression-Chatbot
 In today's world, depression can hit anyone real hard. Depression is an extremely complex disease. No one knows exactly what causes it. The possible reasons could be loneliness, relationships, deadlines, genetics, abuse, conflicts, medications, major illnesses etc.  Some people may experience depression and feel overwhelmed with sadness and loneliness for no known reason. People dealing with depression want to tell their stories to somebody and they are mostly afraid to speak to their close friends and relatives. Depression-Chatbot is an attempt to cure depression among the people by gradually understanding the root cause.
-It is developed from scratch that would help the people regulate their moods and eliminate distorted and negative thinking.
+It is developed from scratch with the intention of helping people in regulating their moods and eliminating distorted and negative thinking.
 
 # Implementation
 A basic Sequence to Sequence architecture is used for building conversational chatbot using Tensorflow framework.<br>
